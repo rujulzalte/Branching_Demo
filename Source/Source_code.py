@@ -2,10 +2,11 @@ def main():
     print("This is main function")
 
 def fea1():
-    pass
+    print("This is feature 1")
+
 
 def fea2():
-    pass
+    print("This is feature 2")
 
 def fea3():
     pass
